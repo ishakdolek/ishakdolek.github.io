@@ -1,2 +1,2 @@
 
-Lstm nedir https://ishakdolek.github.io/lstm-nedir
+Lstm nedir #https://ishakdolek.github.io/lstm-nedir
