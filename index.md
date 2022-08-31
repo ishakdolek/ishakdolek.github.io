@@ -7,6 +7,15 @@
    <li> Yüksek Lisans - İstanbul Üniversitesi-Cerrahpaşa - Bilgisayar Müh.  - 2022 </li>
 </ul>
 
+<h2> İletişim </h2>
+<ul>
+   <li> <a href ="mailto:ishakdolek54@gmail.com"> Email  </a> </li>
+  <li> <a href ="https://www.linkedin.com/in/ishak-dölek/"> Linkedin  </a> </li>
+  <li> <a href ="https://twitter.com/ishakdolek"> Twitter  </a> </li>
+  <li> <a href ="https://github.com/ishakdolek"> GitHub  </a> </li>
+</ul>
+
+
 <h2>İlgi Alanları </h2>
 <ul>
   <li> Yapay Zeka </li>
