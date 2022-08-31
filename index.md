@@ -1,4 +1,4 @@
-<h1>İshak DÖLEK</h1>
+<h1>İshak DÖLEK,PhD </h1>
 
 <h2>Eğitim</h2>
 <ul>
