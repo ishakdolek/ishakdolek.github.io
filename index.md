@@ -1,4 +1,13 @@
-<h1>Geliştirdiğim ve ya İçinde bulunduğum projeler</h1>
+<h1>İshak DÖLEK</h1>
+
+<h2>Eğitim</h2>
+<ul>
+  <li> Lisans - Sakarya Üniversitesi - Bilgisayar Müh.  2013 </li>
+  <li> Yüksek Lisans - Sakarya Üniversitesi - Bilgisayar Müh.  - 2016 </li>
+   <li> Yüksek Lisans - İstanbul Üniversitesi-Cerrahpaşa - Bilgisayar Müh.  - 2022 </li>
+</ul>
+
+<h2>Geliştirdiğim ve ya İçinde bulunduğum projeler</h2>
 <ul>
   <li><a href="https://www.osmanlica.com/tr/dilceviri/translate"> Osmanlıca-Türkçe Dil Çeviri Sistemi </a> </li>
   <li><a href="https://www.osmanlica.com/tr/osmanlica-ceviri-yap"> Osmanlıca-Türkçe Alfabe Çeviri Sistemi  </a></li>
