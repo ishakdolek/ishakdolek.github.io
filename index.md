@@ -4,7 +4,7 @@
 <ul>
   <li> Lisans - Sakarya Üniversitesi - Bilgisayar Müh.  2013 </li>
   <li> Yüksek Lisans - Sakarya Üniversitesi - Bilgisayar Müh.  - 2016 </li>
-   <li> Yüksek Lisans - İstanbul Üniversitesi-Cerrahpaşa - Bilgisayar Müh.  - 2022 </li>
+   <li> Doktora - İstanbul Üniversitesi-Cerrahpaşa - Bilgisayar Müh.  - 2022 </li>
 </ul>
 
 <h2> Hesaplarım </h2>
