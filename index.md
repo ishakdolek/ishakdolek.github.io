@@ -22,7 +22,6 @@
   <li> Görüntü İşleme </li>
    <li> Doğal Dil İşleme </li>
 </ul>
-
 <h2> Projeler </h2>
 <ul>
   <li><a href="https://www.osmanlica.com/tr/dilceviri/translate"> Osmanlıca-Türkçe Dil Çeviri Sistemi </a> </li>
