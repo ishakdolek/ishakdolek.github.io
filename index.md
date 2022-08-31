@@ -14,7 +14,7 @@
    <li> Doğal Dil İşleme </li>
 </ul>
 
-<h2>Geliştirdiğim ve ya İçinde bulunduğum projeler</h2>
+<h2> Projeler </h2>
 <ul>
   <li><a href="https://www.osmanlica.com/tr/dilceviri/translate"> Osmanlıca-Türkçe Dil Çeviri Sistemi </a> </li>
   <li><a href="https://www.osmanlica.com/tr/osmanlica-ceviri-yap"> Osmanlıca-Türkçe Alfabe Çeviri Sistemi  </a></li>
@@ -25,7 +25,7 @@
   <li>Toplu Mail Sistemi</li>
   <li>Eğitim Bilgi Sistemi (SABİS)</li>
   <li>Akademik Bilgi Sistemi (SABİS)</li>
-  <li>E-Makbuz Sistemi</li>
+  <li>Makbuz Sistemi</li>
   <li>Temsilci Yönetim Sistemi</li>
-  <li><a href="https://dynamics.microsoft.com/tr-tr/">Dynamics 365 Non-profit kurum için özelleştirildi.</a></li>
+  <li><a href="https://dynamics.microsoft.com/tr-tr/">Dynamics 365 (Non-profit kurum için özelleştirme ) </a></li>
 </ul>
