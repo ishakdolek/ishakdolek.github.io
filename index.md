@@ -7,7 +7,7 @@
    <li> Yüksek Lisans - İstanbul Üniversitesi-Cerrahpaşa - Bilgisayar Müh.  - 2022 </li>
 </ul>
 
-<h2> İletişim </h2>
+<h2> Hesaplarım </h2>
 <ul>
    <li> <a href ="mailto:ishakdolek54@gmail.com"> Email  </a> </li>
   <li> <a href ="https://www.linkedin.com/in/ishak-dölek/"> Linkedin  </a> </li>
