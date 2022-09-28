@@ -13,6 +13,7 @@
   <li> <a href ="https://www.linkedin.com/in/ishak-dölek/"> Linkedin  </a> </li>
   <li> <a href ="https://twitter.com/ishakdolek"> Twitter  </a> </li>
   <li> <a href ="https://github.com/ishakdolek"> GitHub  </a> </li>
+  <li> <a href ="[https://github.com/ishakdolek](https://www.youtube.com/channel/UCO2j1NE6wxx2Lu1Ef9KG1YQ/featured)"> Youtube  </a> </li>
 </ul>
 
 
